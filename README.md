@@ -10,9 +10,9 @@ This Python code uses a neural network with an LSTM layer to predict the next se
 ## Installation
 To use the code, you will need to have Python 3 installed, as well as the following libraries:
 
-[] NumPy
-[] TensorFlow
-[] Keras
+- [ ] NumPy
+- [ ] TensorFlow
+- [ ] Keras
 
 ## Usage
 To use the code, follow these steps:
